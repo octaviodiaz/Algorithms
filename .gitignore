@@ -6,3 +6,6 @@ build/
 nbproject/
 *.mf
 *.xml
+test/
+dist/
+.idea/
